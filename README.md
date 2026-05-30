@@ -2,7 +2,7 @@
 `specificity` calculates the Caira, Jensen, and Holsinger index of
 specifity. A web version is available at
 [https://specificity.tapeworms-unlocked.info/](https://specificity.tapeworms-unlocked.info/). The
-source code is in src/specificity.cpp.
+repository is at [https://github.com/kholsinger/specificity](https://github.com/kholsinger/specificity).
 
 ## Building from source
 To build `specifity` from source either download and extract a ZIP
