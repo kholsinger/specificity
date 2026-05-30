@@ -18,3 +18,9 @@ hesitate to contact me if you have difficulty. I don't have a Windows
 machine available any more, but I spent many years working with C++ on
 Windows. I can probably help.
 
+## Mac OS X binary
+You'll find a Mac OS X binary in the build directory. I built it on a
+MacBook Pro with an M3 Max chip. I presume that it will work on any
+Mac with an Apple chip. If you try it on an Intel Mac and it doesn't
+work, let me know. I can probably help.
+
